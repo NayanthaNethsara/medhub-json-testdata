@@ -1,0 +1,35 @@
+[
+  {
+    "id": 4,
+    "name": "Amali Amanda",
+    "age": 22,
+    "recentAppointment": "2023-09-22",
+    "recentTests": [
+      "Blood Test",
+      "Thyroid Panel",
+      "Blood Test",
+      "Thyroid Panel",
+      "Blood Test",
+      "Thyroid Panel",
+      "Blood Test",
+      "Thyroid Panel"
+    ],
+    "reportState": "Completed"
+  },
+  {
+    "id": 5,
+    "name": "Manula Cooray",
+    "age": 41,
+    "recentAppointment": "2023-09-22",
+    "recentTests": ["Blood Test", "Thyroid Panel"],
+    "reportState": "In Progress"
+  },
+  {
+    "id": 4,
+    "name": "Pigy Mudalige",
+    "age": 41,
+    "recentAppointment": "2023-09-22",
+    "recentTests": ["Blood Test", "Thyroid Panel", "Blood Test"],
+    "reportState": "Pending"
+  }
+]
