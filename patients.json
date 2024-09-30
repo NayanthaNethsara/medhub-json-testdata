@@ -14,7 +14,8 @@
       "Blood Test",
       "Thyroid Panel"
     ],
-    "reportState": "Completed"
+    "reportState": "Completed",
+    "nic": 200310110894
   },
   {
     "id": 5,
@@ -22,7 +23,8 @@
     "age": 41,
     "recentAppointment": "2023-09-22",
     "recentTests": ["Blood Test", "Thyroid Panel"],
-    "reportState": "In Progress"
+    "reportState": "In Progress",
+    "nic": 200310110895
   },
   {
     "id": 4,
@@ -30,7 +32,8 @@
     "age": 21,
     "recentAppointment": "2023-09-22",
     "recentTests": ["Blood Test", "Thyroid Panel", "Blood Test"],
-    "reportState": "Pending"
+    "reportState": "Pending",
+    "nic": 200310110896
   },
   {
     "id": 4,
@@ -38,6 +41,7 @@
     "age": 41,
     "recentAppointment": "2023-09-22",
     "recentTests": ["Blood Test", "Thyroid Panel", "Blood Test"],
-    "reportState": "Pending"
+    "reportState": "Pending",
+    "nic": 200310110897
   }
 ]
