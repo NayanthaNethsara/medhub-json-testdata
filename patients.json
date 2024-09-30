@@ -26,6 +26,13 @@
   },
   {
     "id": 4,
+    "name": "Nayantha Nethsara",
+    "age": 21,
+    "recentAppointment": "2023-09-22",
+    "recentTests": ["Blood Test", "Thyroid Panel", "Blood Test"],
+    "reportState": "Pending"
+  }  {
+    "id": 4,
     "name": "Pigy Mudalige",
     "age": 41,
     "recentAppointment": "2023-09-22",
