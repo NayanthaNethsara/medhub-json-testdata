@@ -1,0 +1,46 @@
+[
+  {
+    "patientName": "Amali Amanda",
+    "patientId": "P001",
+    "testName": "Blood Test",
+    "values": [
+      { "name": "Hemoglobin", "value": "14.2", "unit": "g/dL" },
+      { "name": "White Blood Cells", "value": "7.5", "unit": "x10^9/L" },
+      { "name": "Platelets", "value": "250", "unit": "x10^9/L" }
+    ],
+    "date": "2023-09-22",
+    "status": "Completed"
+  },
+  {
+    "patientName": "Manula Cooray",
+    "patientId": "P002",
+    "testName": "Thyroid Panel",
+    "values": [
+      { "name": "TSH", "value": "2.5", "unit": "mIU/L" },
+      { "name": "T4", "value": "1.1", "unit": "ng/dL" },
+      { "name": "T3", "value": "120", "unit": "ng/dL" }
+    ],
+    "date": "2023-09-22",
+    "status": "In Progress"
+  },
+  {
+    "patientName": "Nayantha Nethsara",
+    "patientId": "P003",
+    "testName": "Blood Test",
+    "values": [
+      { "name": "Glucose", "value": "95", "unit": "mg/dL" },
+      { "name": "Cholesterol", "value": "180", "unit": "mg/dL" },
+      { "name": "Triglycerides", "value": "150", "unit": "mg/dL" }
+    ],
+    "date": "2023-09-22",
+    "status": "Pending"
+  },
+  {
+    "patientName": "Piggy Mudalige",
+    "patientId": "P004",
+    "testName": "Blood Glucose",
+    "values": [{ "name": "Glucose", "value": "95", "unit": "mg/dL" }],
+    "date": "2023-09-22",
+    "status": "Pending"
+  }
+]
