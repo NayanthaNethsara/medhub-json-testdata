@@ -1,0 +1,30 @@
+[
+  {
+    "id": 4,
+    "name": "Amali Amanda",
+    "dob": "2001-01-01",
+    "phone": "123-456-7890",
+    "gender": "Female"
+  },
+  {
+    "id": 5,
+    "name": "Manula Cooray",
+    "dob": "1982-02-02",
+    "phone": "234-567-8901",
+    "gender": "Male"
+  },
+  {
+    "id": 4,
+    "name": "Nayantha Nethsara",
+    "dob": "2002-03-03",
+    "phone": "345-678-9012",
+    "gender": "Male"
+  },
+  {
+    "id": 4,
+    "name": "Pigy Mudalige",
+    "dob": "1982-04-04",
+    "phone": "456-789-0123",
+    "gender": "Female"
+  }
+]
